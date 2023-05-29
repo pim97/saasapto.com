@@ -1,5 +1,5 @@
 # saasapto.com
-Saasapto.com: Find, validate, and launch your perfect SaaS project. Showcase for my GitHub portfolio.
+Saasapto.com: Find, validate, and launch your perfect SaaS project. Showcase for my personal GitHub portfolio.
 
 This website was created using my open-source project, the **Vue3-Tailwind-Flowbite-Starter-Kit**. It leverages Vue 3, Tailwind CSS, Flowbite, and Vite to provide a solid foundation for building modern web applications. Also features a white/dark mode.
 
