@@ -1,3 +1,5 @@
+// Created From https://github.com/pim97/Vue3-Tailwind-Flowbite-Starter-Kit.git
+
 // Function to check if the puzzle is solved
 function isPuzzleSolved(puzzle) {
   const solution = [1, 2, 3, 4, 5, 6, 7, 8, 9]; // The correct solution for the puzzle
